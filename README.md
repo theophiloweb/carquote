@@ -4,7 +4,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*wrYIcaHbd23AAd88N9yIlw.png" alt="Java Spring" width="400"/>
 </p>
 
-[![Java](https://img.shields.io/badge/Java-21-007396?logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Java](https://img.shields.io/badge/Java-17-007396?logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Spring](https://img.shields.io/badge/Spring-3.3.0-6DB33F?logo=spring&logoColor=white)](https://spring.io/)
 [![Lambdas](https://img.shields.io/badge/Lambdas-Java-orange)](https://www.oracle.com/technical-resources/articles/java/architect-lambdas-part1.html)
 [![Stream](https://img.shields.io/badge/Streams-Java-orange)](https://www.oracle.com/technical-resources/articles/java/architect-streams.html)
